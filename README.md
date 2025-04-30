@@ -1,6 +1,3 @@
-# freelance-projects
-Freelance
-
 ---
 
 # ⚡ **AI Cost Justification Analysis for AI Workloads**
